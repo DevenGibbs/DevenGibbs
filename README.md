@@ -1,8 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Deven Gibbs!
 
-I'm a full-stack developer proficient in JavaScript, React, HTML, and CSS. I also have seven years of experience in petroleum engineering, during which I’ve developed an affinity for providing solutions to complex problems, remaining flexible, and effective communication. I have a particular passion for the user experience which ensures my finished products are functional, well documented, and user-friendly.
-
-👩‍🎓 I am currently enrolled in Thinkful's Software Engineering Flex program.
+I am a full-stack developer currently enrolled in Thinkful's Software Engineering program and committed to learning new coding solutions and tools. I have seven years experience in petroleum engineering, where I’ve developed an affinity for providing solutions to complex problems, flexibility, and effective communication. 
 
 ## 🔥 I am passionate about:
 * 💪 Women in Tech
@@ -27,7 +25,7 @@ Here are a few things I've picked up along my learning journey:
 
 ## 📫 Get in Touch!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deven-gibbs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deven-l-gibbs/)
 
 
 <!---
