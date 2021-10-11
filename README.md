@@ -4,9 +4,9 @@ I am a full-stack developer currently enrolled in Thinkful's Software Engineerin
 
 ## 🔥 I am passionate about:
 * 💪 Women in Tech
-* 👩‍💻 Web Dev
 * ✨ Embracing curiosity
-* 🌱 Growth mindset while learning new things
+* 🌱 Growth mindset
+* :earth_americas: Travel
 
 ## ⚡ Tech Stack
 Here are a few things I've picked up along my learning journey:
